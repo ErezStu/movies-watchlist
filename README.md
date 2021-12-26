@@ -2,6 +2,8 @@
 
 I used here react, the data is from the api of TMDB
 
+On this app, you can store movies that you watched or want to watch
+
 After installing the dependencies
 run the command "npm start"
 
